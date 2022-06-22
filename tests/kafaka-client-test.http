@@ -1,0 +1,10 @@
+### Send POST request with json body
+POST http://localhost:9000/sendMessageToKafkaTopic
+Content-Type: application/json
+
+{
+  "key": "kafkaLocalKey",
+  "value": "{\"factId\":\"1\",\"factType\":\"animal\",\"factDescription\":\"octopuses have 8 arms\"}"
+}
+
+###
