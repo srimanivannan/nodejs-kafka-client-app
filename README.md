@@ -20,5 +20,5 @@ For consumer, look at the application console log.
 ### How to do SSL config setup?
 Please see [here](./docs/how-to-export-certificates-from-jks.md)
 
-### Understanding od code and syntax of this application
+### Understanding of code and syntax of this application
 Please see [here](./docs/understanding-of-code-and-syntax.md)
